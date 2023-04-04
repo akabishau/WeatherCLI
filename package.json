@@ -1,0 +1,23 @@
+{
+  "name": "weathercli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akabishau/WeatherCLI.git"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Aleksey Kabishau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akabishau/WeatherCLI/issues"
+  },
+  "homepage": "https://github.com/akabishau/WeatherCLI#readme"
+}
